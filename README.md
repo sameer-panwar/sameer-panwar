@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Panwar</h1>
-<h3 align="center">A passionate frontend developer from from India.</h3>
+<h3 align="center">A passionate frontend developer from India.</h3>
 
 <img align="right" alt="coding" width="400px" src="C:\Users\samee\OneDrive\Pictures\81178b47a8598f0c81c4799f2cdd4057.gif" >
 

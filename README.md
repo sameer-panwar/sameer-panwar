@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-panwar&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-panwar" /> </p>
 
-- 🌱 I’m currently learning **react.js, DSA and development**
+- 🌱 I’m currently learning **react.js in Web Dev and DSA**
 
 - 📫 How to reach me **sameerpanwar9720@gmail.com**
 

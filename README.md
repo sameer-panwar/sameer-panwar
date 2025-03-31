@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sameer Panwar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Mern Stack developer from India.</h3>
 
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right" alt="coding" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-panwar&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-panwar" /> </p>
 
-- 🌱 I’m currently learning **react.js in Web Dev and DSA**
+- 🌱 I’m currently learning **Fullstack Devlopment and DSA**
 
 - 📫 How to reach me **sameerpanwar9720@gmail.com**
 
